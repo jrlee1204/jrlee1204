@@ -1,13 +1,11 @@
 # Hi there 👋
 
 ## 🌠 Coding Time
-
-<div align="center">
-<img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jrlee1204&theme=calm&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlee1204&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
-</div>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrlee1204&theme=calm&show_icons=true" />
 <br/>
+
+## 🏆 Top Langs
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlee1204&hide=html,Jupyter+Notebook&theme=calm&langs_count=6&layout=compact" />
 
 
 
