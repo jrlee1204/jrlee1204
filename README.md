@@ -2,8 +2,8 @@
 
 🌠 Coding Time
 <div>
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=jrlee1204&theme=calm&show_icons=true" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlee1204&hide=html,css,Jupyter+Notebook&theme=calm&langs_count=6&layout=compact" />
+<a href="https://github.com/jrlee1204"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=jrlee1204&theme=calm&show_icons=true" /></a>
+<a href="https://github.com/jrlee1204"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlee1204&hide=html,css,Jupyter+Notebook&theme=calm&langs_count=6&layout=compact" /></a>
 </div>
 <br/>
 
