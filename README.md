@@ -1,10 +1,7 @@
-<h1 align="center">👋 Hi, I'm jrlee</h1>
+<h1 align="center">👋 Hi, I'm there</h1>
 
-🌠 Coding Time
-<div>
-<a href="https://github.com/jrlee1204"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=jrlee1204&theme=calm&show_icons=true" /></a>
-<a href="https://github.com/jrlee1204"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlee1204&hide=html,css,Jupyter+Notebook&theme=calm&langs_count=6&layout=compact" /></a>
-</div>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello World!&center=true&size=27"> </a> </h1>
+
 <br/>
 
 
